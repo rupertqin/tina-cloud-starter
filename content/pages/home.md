@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welcome to the Tina Starter! 欢迎你们！
+  - headline: Welcome to the Tina Starter! 怒
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
